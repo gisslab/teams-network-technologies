@@ -1,2 +1,2 @@
 # teams-network-technologies
-The simulations used on the thesis "contracting in teams with network technologies" can be found here. 
+The simulations used in the thesis "contracting in teams with network technologies" can be found here. 
