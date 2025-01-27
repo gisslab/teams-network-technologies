@@ -1,5 +1,5 @@
 
 # teams-network-technologies
-The simulations used in the thesis "contracting in teams with network technologies" can be found here. 
+The simulations and code that generate the graphs used in the thesis "Contracting in Teams with Network Technologies" are here. 
 
-The model and the simulations are programmed in Julia. 
+The code is written in Julia. 
